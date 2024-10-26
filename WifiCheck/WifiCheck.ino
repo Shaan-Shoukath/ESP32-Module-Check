@@ -1,8 +1,8 @@
 #include <WiFi.h>
 
 // Replace with your network credentials
-const char* ssid = "TP-Link_A298_EXT";
-const char* password = "33084862";
+const char* ssid = "_________";
+const char* password = "___________";
 
 void setup() {
   // Initialize Serial Monitor
